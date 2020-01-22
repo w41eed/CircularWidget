@@ -1,0 +1,18 @@
+Waleed Ashfaq
+
+
+Marking Menu Widget Features:
+* Drag Mouse on Menu and it will display the Menu items.
+* First Level of MarkingMenu Widget is Circular with the JMenus but the sub menu items are still in List form.
+
+
+
+
+Sources that I used for reference:
+
+For finding points to draw lines on circle:
+https://stackoverflow.com/questions/18610350/android-dividing-circle-into-n-equal-parts-and-know-the-coordinates-of-each-divi
+
+
+MVC Pattern
+Using Example Code provided with slides
